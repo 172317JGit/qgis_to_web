@@ -1,0 +1,1 @@
+var json_PanaduraTown_9 = {"type":"FeatureCollection","name":"PanaduraTown_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Panadura":null,"Populaton":null,"Density":null},"geometry":{"type":"Point","coordinates":[79.907486048921001,6.712360852993613]}}]}
